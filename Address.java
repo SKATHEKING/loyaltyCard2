@@ -4,7 +4,7 @@
  * 
  * equals and toString methods added
  * 
- * @author Alan Maughan
+ * @author Mateus Goncalves De Ouro
  * @version 02
  */
 public class Address
